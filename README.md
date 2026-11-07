@@ -6,6 +6,16 @@ A lightweight, modern, zero-telemetry suite designed to evaluate and generate ro
 2. **KeyGuard (Browser Extension)**: A Chromium Manifest V3 extension featuring an interactive toolbar popup, a secure 16-character password generator, and an automatic in-page strength meter attached to any `<input type="password">` field across the web.
 
 ---
+## 📸 Previews
+
+### Desktop Hotkey App
+![Desktop HUD](assets/desktop_app.png)
+
+### Browser In-Page Evaluation & Extension Popup
+<p align="center">
+  <img src="assets/inpage_overlay.png" width="55%" alt="In-page live check" />
+  <img src="assets/extension_popup.png" width="40%" alt="Toolbar popup & generator" />
+</p>
 
 ## Table of Contents
 
