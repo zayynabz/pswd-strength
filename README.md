@@ -5,7 +5,6 @@ A lightweight, modern, zero-telemetry suite designed to evaluate and generate ro
 1. **Password Shield (Desktop App)**: A modern Python desktop application that docks neatly in your system taskbar and summons instantly on top of any active window with a global hotkey (`Ctrl+Alt+P`).
 2. **KeyGuard (Browser Extension)**: A Chromium Manifest V3 extension featuring an interactive toolbar popup, a secure 16-character password generator, and an automatic in-page strength meter attached to any `<input type="password">` field across the web.
 
----
 ## 📸 Previews
 
 ### Desktop Hotkey App
